@@ -18,3 +18,5 @@ After spritesheet generation, the [PY script](pngpixelbleed.py) needs to be run 
 PNG24 format images don't have dirty pixels on the transparency collar in Tangram.
 
 This repo is meant to be private for now. Eventually we'll open this all up...
+
+![icon-preview](https://raw.githubusercontent.com/tangrams/icons/master/build/poi_icons_18%402x.png?token=AA0EO5yXfSe0cH4yLSomSMel9Nq3u9xGks5W-xVTwA%3D%3D)
