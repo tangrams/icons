@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-# THIS IS NOT A GENERAL PURPOSE TOOL, YET. NO.
-# STOP THINKING IT IS. YOU WILL ONLY BE SAD.
-# (20160323/thisisaaronland)
-
 import sys
 import os
 import logging
@@ -21,6 +17,10 @@ def extract_icons(style):
 
     src_yaml = "https://raw.githubusercontent.com/tangrams/%s/gh-pages/%s.yaml" % (style, style)
     rsp = requests.get(src_yaml)
+
+    # See notes and comments in here. Parsers, yeah?
+    # https://github.com/whosonfirst/whosonfirst-www-boundaryissues/issues/73
+    # (20160323/thisisaaronland)
 
     """
     data = yaml.safe_load(rsp.content)
