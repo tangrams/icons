@@ -6,6 +6,7 @@ import logging
 
 import requests
 import yaml
+import json
 import re
 
 import cStringIO
@@ -128,6 +129,8 @@ if __name__ == '__main__':
     fh = cStringIO.StringIO(rsp.content)
     img = Image.open(fh)
 
+    index = {}
+
     for name, dims in icons.items():
         
         fname = "%s.png" % name
@@ -138,8 +141,17 @@ if __name__ == '__main__':
         y2 = y1 + y2
 
         logging.info("save %s to %s" % (name, path))
-
         i = img.crop((x1, y1, x2, y2))
+
+        index[ name ] = { 'width': i.width, 'height': i.height }
         i.save(path)
 
+    path_index = os.path.join(outdir, "index.json")
+    fh = open(path_index, "w")
+
+    json.dump(index, fh, indent=2)
+    fh.close()
+
+    # TO DO: purge icons in outdir that are not in index?
+    
     sys.exit(0)
