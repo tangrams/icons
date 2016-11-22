@@ -14,10 +14,21 @@ from PIL import Image
 
 pat = re.compile('([^\:]+)\:\s+\[(\d+),\s+(\d+),\s+(\d+),\s+(\d+)\]')
 
-def extract_icons(style):
+def extract_sprites(style, local, resolution):
+    if local:
+        src_yaml = "spritesheet/%s@%sx.yaml" % (style, resolution)
+        f = open(src_yaml, 'r')
+        yaml = f.read()
+        f.close()
+    else:
+        if style == "bubble-wrap":
+            src_yaml = "https://mapzen.com/carto/%s-style/%s.yaml"  % (style, style)
+        else:
+            src_yaml = "https://mapzen.com/carto/%s-style/%s-style.yaml"  % (style, style)
+        rsp = requests.get(src_yaml)
+        yaml = rsp.content
 
-    src_yaml = "https://raw.githubusercontent.com/tangrams/%s/gh-pages/%s.yaml" % (style, style)
-    rsp = requests.get(src_yaml)
+    print yaml
 
     # See notes and comments in here. Parsers, yeah?
     # https://github.com/whosonfirst/whosonfirst-www-boundaryissues/issues/73
@@ -33,10 +44,10 @@ def extract_icons(style):
     pois = False
     sprites = False
 
-    icons = {}
+    sprite = {}
     url = None
 
-    for ln in rsp.content.split("\n"):
+    for ln in yaml.split("\n"):
 
         ln = ln.strip()
 
@@ -78,22 +89,24 @@ def extract_icons(style):
         name = g[0]
         dims = map(int, g[1:])
 
-        icons[name] = dims
+        sprite[name] = dims
 
-    return icons, url
+    return sprite, url
 
 if __name__ == '__main__':
 
     import optparse
     opt_parser = optparse.OptionParser()
 
-    opt_parser.add_option('-s', '--style', dest='style', action='store', default=None, help='Which style to extract icons for')
-    opt_parser.add_option('-o', '--outdir', dest='outdir', action='store', default=None, help='Where to save the extracted icons (default is the current working directory)')
+    opt_parser.add_option('-s', '--style', dest='style', action='store', default=None, help='Which style to extract sprites for')
+    opt_parser.add_option('-l', '--local', dest='local', action='store_true', default=False, help='Local or remote style')
+    opt_parser.add_option('-r', '--resolution', dest='resolution', action='store', default=2, help='Resolution (eg: 1, 2, 3, 4, 8)')
+    opt_parser.add_option('-o', '--outdir', dest='outdir', action='store', default=None, help='Where to save the extracted sprites (default is the current working directory)')
 
     opt_parser.add_option('-v', '--verbose', dest='verbose', action='store_true', default=False, help='Be chatty (default is false)')
     options, args = opt_parser.parse_args()
 
-    if options.verbose:	
+    if options.verbose:
         logging.basicConfig(level=logging.DEBUG)
     else:
         logging.basicConfig(level=logging.INFO)
@@ -103,36 +116,50 @@ if __name__ == '__main__':
         sys.exit(1)
 
     style = options.style
+    local = options.local
+    resolution = str(options.resolution)
     outdir = options.outdir
 
     try:
-        icons, url = extract_icons(style)
+        sprites, spritesheet = extract_sprites(style, local, resolution)
     except Exception, e:
-        logging.error("failed to extract icons for %s, because %s" % (style, e))
+        logging.error("failed to extract sprites for %s, because %s" % (style, e))
         sys.exit(1)
+
+    print sprites, spritesheet
 
     if not outdir:
         outdir = os.getcwd()
 
     outdir = os.path.abspath(outdir)
-    outdir = os.path.join(outdir, style)
+    outdir = os.path.join(outdir, style + "-style")
+    outdir = os.path.join(outdir, resolution + "x")
 
-    logging.info("writing %s icons to %s" % (style, outdir))
+    logging.info("writing %s sprites to %s" % (style, outdir))
 
     if not os.path.exists(outdir):
         logging.debug("creating %s" % outdir)
         os.makedirs(outdir)
 
-    src_icons = "https://raw.githubusercontent.com/tangrams/%s/gh-pages/%s" % (style, url)
-    rsp = requests.get(src_icons)
+    if local:
+        src_spritesheet = "spritesheet/%s@%sx.png" % (style, resolution)
+        fh_spritesheet = open(src_spritesheet, 'r')
 
-    fh = cStringIO.StringIO(rsp.content)
-    img = Image.open(fh)
+        img = Image.open(fh_spritesheet)
+    else:
+        if style == "bubble-wrap":
+            src_spritesheet = "https://mapzen.com/carto/%s-style/%s"  % (style, spritesheet)
+        else:
+            src_spritesheet = "https://mapzen.com/carto/%s-style/%s"  % (style, spritesheet)
+        rsp = requests.get(src_spritesheet)
+
+        fh = cStringIO.StringIO(rsp.content)
+        img = Image.open(fh)
 
     index = {}
 
-    for name, dims in icons.items():
-        
+    for name, dims in sprites.items():
+
         fname = "%s.png" % name
         path = os.path.join(outdir, fname)
 
@@ -143,7 +170,11 @@ if __name__ == '__main__':
         logging.info("save %s to %s" % (name, path))
         i = img.crop((x1, y1, x2, y2))
 
-        index[ name ] = { 'width': i.width, 'height': i.height }
+        try:
+            index[ name ] = { 'width': i.width, 'height': i.height }
+        except:
+            index[ name ] = { 'width': i.size[0], 'height': i.size[1] }
+
         i.save(path)
 
     path_index = os.path.join(outdir, "index.json")
@@ -153,5 +184,5 @@ if __name__ == '__main__':
     fh.close()
 
     # TO DO: purge icons in outdir that are not in index?
-    
+
     sys.exit(0)
