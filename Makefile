@@ -1,8 +1,10 @@
-pngs: refill-pngs erasermap-pngs
+pngs: refill-sprites bubble-wrap-sprites walkabout-sprites
 
-refill-pngs:
-	./bin/extract.py -s refill-style -o ./png
+refill-sprites:
+	./bin/extract.py -s refill -o ./sprite
 
-erasermap-pngs:
-	./bin/extract.py -s eraser-map -o ./png
-	
+bubble-wrap-sprites:
+	./bin/extract.py -s bubble-wrap -o ./sprite
+
+walkabout-sprites:
+	./bin/extract.py -s walkabout -o ./sprite
