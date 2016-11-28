@@ -17,7 +17,8 @@ pat = re.compile('([^\:]+)\:\s+\[(\d+),\s+(\d+),\s+(\d+),\s+(\d+)\]')
 def extract_sprites(style, local, resolution):
     if local:
         src_yaml = "spritesheet/%s@%sx.yaml" % (style, resolution)
-        f = open(src_yaml, 'r')
+        # note, Mac new lines, omg
+        f = open(src_yaml, 'rU')
         yaml = f.read()
         f.close()
     else:
@@ -126,7 +127,8 @@ if __name__ == '__main__':
         logging.error("failed to extract sprites for %s, because %s" % (style, e))
         sys.exit(1)
 
-    print sprites, spritesheet
+    #print sprites
+    #print spritesheet
 
     if not outdir:
         outdir = os.getcwd()

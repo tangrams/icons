@@ -1,0 +1,1050 @@
+{
+  "outdoor": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "fitness_station": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "capital-xl": {
+    "width": 44, 
+    "height": 36
+  }, 
+  "department_store": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "ux-current-location": {
+    "width": 88, 
+    "height": 88
+  }, 
+  "generic_shield-1char": {
+    "width": 72, 
+    "height": 72
+  }, 
+  "clinic": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "embassy": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "capital-xs": {
+    "width": 14, 
+    "height": 14
+  }, 
+  "fishing": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "pitch": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "manor": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "dot-black": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "archaeological_site": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "toilets": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "nature_reserve": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "geyser": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "police": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "courthouse": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "generator": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "ux-search-active": {
+    "width": 108, 
+    "height": 162
+  }, 
+  "photographer": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "ruin": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "lighthouse": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "cemetery": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "ski_jumping": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "generic_shield-5char": {
+    "width": 360, 
+    "height": 144
+  }, 
+  "bench": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "kindergarten": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "attraction": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "bank": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "fuel": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "shoemaker": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "beach_resort": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "ski": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "townspot-s-rev": {
+    "width": 6, 
+    "height": 6
+  }, 
+  "dive_centre": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "generic_shield-2char": {
+    "width": 196, 
+    "height": 144
+  }, 
+  "garden": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "viewpoint": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "government": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "golf_course": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "townspot-xl": {
+    "width": 40, 
+    "height": 40
+  }, 
+  "dock": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "tailor": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "pier": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "ux-route-stop": {
+    "width": 108, 
+    "height": 138
+  }, 
+  "chimney": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "chapel": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "place_of_worship": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "school": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "bar": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "optician": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "gift": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "townspot-l-rev": {
+    "width": 16, 
+    "height": 16
+  }, 
+  "university": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "brewery": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "bus_stop": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "convenience": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "trailhead": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "protected_area": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "ski_rental": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "fitness": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "volcano": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "tower": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "works": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "ruins": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "clothes": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "grave_yard": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "battlefield": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "ux-locate-off": {
+    "width": 142, 
+    "height": 142
+  }, 
+  "bicycle": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "telescope": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "apartments": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "spring": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "liquor": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "skiing": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "plant": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "library": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "picnic_table": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "books": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "college": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "parking": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "laundry": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "subway_entrance": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "post_office": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "hostel": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "recreation_ground": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "jewelry": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "pet": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "motel": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "veterinary": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "wayside_shrine": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "tram_stop": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "townspot-xl-rev": {
+    "width": 38, 
+    "height": 38
+  }, 
+  "fountain": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "playground": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "electronics": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "public": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "bicycle_rental_station": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "fast_food": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "hot_spring": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "christian": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "summer_camp": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "hairdresser": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "muslim": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "winter_sports": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "pub": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "dot-white": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "beacon": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "basketball": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "baseball": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "aquarium": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "generic_shield-4char": {
+    "width": 76, 
+    "height": 36
+  }, 
+  "marina": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "biergarten": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "scuba_diving": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "greengrocer": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "bicycle_rental": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "townhall": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "substation": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "hardware": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "hunting": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "restaurant": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "ferry_terminal": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "atm": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "care_home": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "airport": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "supermarket": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "light_rail": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "bus_station": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "castle": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "retail": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "ux-locate-on": {
+    "width": 142, 
+    "height": 142
+  }, 
+  "hospital": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "industrial": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "ux-route-arrow": {
+    "width": 128, 
+    "height": 128
+  }, 
+  "bridge": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "recycling": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "generic_shield-3char": {
+    "width": 132, 
+    "height": 72
+  }, 
+  "nursing_home": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "toys": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "florist": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "car_sharing": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "pharmacy": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "national_park": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "water_park": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "confectionery": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "boat_rental": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "museum": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "tennis": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "sports": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "vineyard": {
+    "width": 60, 
+    "height": 54
+  }, 
+  "conservation": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "music": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "stadium": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "ranger_station": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "aerodrome": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "townspot-m": {
+    "width": 24, 
+    "height": 24
+  }, 
+  "townspot-l": {
+    "width": 32, 
+    "height": 32
+  }, 
+  "bbq": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "drinking_water": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "mobile_phone": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "quarry": {
+    "width": 78, 
+    "height": 78
+  }, 
+  "county_shield-2char": {
+    "width": 88, 
+    "height": 72
+  }, 
+  "company": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "county_shield-5char": {
+    "width": 240, 
+    "height": 108
+  }, 
+  "motorcycle": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "capital-s": {
+    "width": 10, 
+    "height": 10
+  }, 
+  "sports_centre": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "dentist": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "cinema": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "water_works": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "doctors": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "painter": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "doityourself": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "dog_park": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "fort": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "observatory": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "theme_park": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "car": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "tree": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "bicycle_parking": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "shower": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "mall": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "computer": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "store": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "winery": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "monument": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "newspaper": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "ferry": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "grass": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "zoo": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "county_shield-3char": {
+    "width": 52, 
+    "height": 36
+  }, 
+  "gas_canister": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "fashion": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "swimming_area": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "ux-transit-stop": {
+    "width": 20, 
+    "height": 20
+  }, 
+  "county_shield-1char": {
+    "width": 108, 
+    "height": 108
+  }, 
+  "townspot-s": {
+    "width": 5, 
+    "height": 5
+  }, 
+  "mine": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "townspot-m-rev": {
+    "width": 6, 
+    "height": 6
+  }, 
+  "wastewater_plant": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "capital-l": {
+    "width": 36, 
+    "height": 28
+  }, 
+  "capital-m": {
+    "width": 28, 
+    "height": 20
+  }, 
+  "estate_agent": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "station": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "cafe": {
+    "width": 74, 
+    "height": 74
+  }, 
+  "car_repair": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "photographic_laboratory": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "hangar": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "factory": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "memorial": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "soccer": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "generic": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "buddhist": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "amusement_ride": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "butcher": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "insurance": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "caravan_site": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "jewish": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "ux-search-inactive": {
+    "width": 36, 
+    "height": 54
+  }, 
+  "forest": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "kiosk": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "beach": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "water_slide": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "allotments": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "fire_station": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "mineshaft": {
+    "width": 78, 
+    "height": 78
+  }, 
+  "hotel": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "adit": {
+    "width": 78, 
+    "height": 78
+  }, 
+  "theatre": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "information": {
+    "width": 70, 
+    "height": 70
+  }, 
+  "park": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "office": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "picnic_site": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "firepit": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "county_shield-4char": {
+    "width": 204, 
+    "height": 108
+  }, 
+  "historical": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "waterfall": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "water_tower": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "peak": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "slipway": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "ice_cream": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "ski_school": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "gallery": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "fishing_area": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "alcohol": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "building": {
+    "width": 68, 
+    "height": 68
+  }, 
+  "train_station": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "recreation_track": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "townspot-xs-rev": {
+    "width": 6, 
+    "height": 6
+  }, 
+  "townspot-xs": {
+    "width": 12, 
+    "height": 12
+  }, 
+  "ux-route-start": {
+    "width": 72, 
+    "height": 92
+  }, 
+  "traffic_signals": {
+    "width": 70, 
+    "height": 70
+  }, 
+  "swimming_pool": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "bakery": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "natural_forest": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "landmark": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "dry_cleaning": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "camp_site": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "wine": {
+    "width": 18, 
+    "height": 18
+  }
+}
