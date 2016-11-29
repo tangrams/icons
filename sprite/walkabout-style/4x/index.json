@@ -4,24 +4,24 @@
     "height": 76
   }, 
   "fitness_station": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "capital-xl": {
     "width": 44, 
     "height": 36
   }, 
   "department_store": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "ux-current-location": {
-    "width": 88, 
-    "height": 88
+    "width": 174, 
+    "height": 174
   }, 
   "generic_shield-1char": {
-    "width": 72, 
-    "height": 72
+    "width": 144, 
+    "height": 144
   }, 
   "clinic": {
     "width": 68, 
@@ -40,8 +40,8 @@
     "height": 76
   }, 
   "pitch": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "manor": {
     "width": 68, 
@@ -56,8 +56,8 @@
     "height": 76
   }, 
   "toilets": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "nature_reserve": {
     "width": 76, 
@@ -72,36 +72,36 @@
     "height": 76
   }, 
   "courthouse": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "generator": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "ux-search-active": {
-    "width": 108, 
-    "height": 162
+    "width": 144, 
+    "height": 216
   }, 
   "photographer": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "ruin": {
     "width": 76, 
     "height": 76
   }, 
   "lighthouse": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "cemetery": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "ski_jumping": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "generic_shield-5char": {
     "width": 360, 
@@ -112,16 +112,16 @@
     "height": 76
   }, 
   "kindergarten": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "attraction": {
-    "width": 54, 
-    "height": 54
+    "width": 74, 
+    "height": 74
   }, 
   "bank": {
-    "width": 36, 
-    "height": 36
+    "width": 74, 
+    "height": 74
   }, 
   "fuel": {
     "width": 76, 
@@ -136,96 +136,100 @@
     "height": 76
   }, 
   "ski": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "townspot-s-rev": {
-    "width": 6, 
-    "height": 6
+    "width": 24, 
+    "height": 16
   }, 
   "dive_centre": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "generic_shield-2char": {
     "width": 196, 
     "height": 144
   }, 
   "garden": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "viewpoint": {
-    "width": 18, 
-    "height": 18
+    "width": 78, 
+    "height": 78
   }, 
   "government": {
     "width": 76, 
     "height": 76
   }, 
+  "dam": {
+    "width": 78, 
+    "height": 78
+  }, 
   "golf_course": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "townspot-xl": {
     "width": 40, 
     "height": 40
   }, 
   "dock": {
-    "width": 18, 
-    "height": 18
+    "width": 78, 
+    "height": 78
   }, 
   "tailor": {
     "width": 76, 
     "height": 76
   }, 
   "pier": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "ux-route-stop": {
-    "width": 108, 
-    "height": 138
+    "width": 144, 
+    "height": 184
   }, 
   "chimney": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "chapel": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "place_of_worship": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "school": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "bar": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "optician": {
     "width": 76, 
     "height": 76
   }, 
   "gift": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "townspot-l-rev": {
-    "width": 16, 
-    "height": 16
+    "width": 30, 
+    "height": 30
   }, 
   "university": {
     "width": 76, 
     "height": 76
   }, 
   "brewery": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "bus_stop": {
     "width": 76, 
@@ -236,32 +240,32 @@
     "height": 76
   }, 
   "trailhead": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "protected_area": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "ski_rental": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "fitness": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "volcano": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "tower": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "works": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "ruins": {
     "width": 76, 
@@ -272,20 +276,20 @@
     "height": 76
   }, 
   "grave_yard": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "battlefield": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "ux-locate-off": {
     "width": 142, 
     "height": 142
   }, 
   "bicycle": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "telescope": {
     "width": 76, 
@@ -296,20 +300,20 @@
     "height": 68
   }, 
   "spring": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "liquor": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "skiing": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "plant": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "library": {
     "width": 76, 
@@ -320,60 +324,64 @@
     "height": 76
   }, 
   "books": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "college": {
     "width": 76, 
     "height": 76
   }, 
   "parking": {
-    "width": 18, 
-    "height": 18
+    "width": 74, 
+    "height": 74
   }, 
   "laundry": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "subway_entrance": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "post_office": {
     "width": 76, 
     "height": 76
   }, 
   "hostel": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
+  }, 
+  "tree-xs": {
+    "width": 76, 
+    "height": 76
   }, 
   "recreation_ground": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "jewelry": {
     "width": 76, 
     "height": 76
   }, 
   "pet": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "motel": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "veterinary": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "wayside_shrine": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "tram_stop": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "townspot-xl-rev": {
     "width": 38, 
@@ -384,8 +392,8 @@
     "height": 76
   }, 
   "playground": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "electronics": {
     "width": 76, 
@@ -396,20 +404,20 @@
     "height": 76
   }, 
   "bicycle_rental_station": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "fast_food": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "hot_spring": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "christian": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "summer_camp": {
     "width": 76, 
@@ -424,112 +432,112 @@
     "height": 76
   }, 
   "winter_sports": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "pub": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "dot-white": {
     "width": 76, 
     "height": 76
   }, 
   "beacon": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "basketball": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "baseball": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "aquarium": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "generic_shield-4char": {
-    "width": 76, 
-    "height": 36
+    "width": 304, 
+    "height": 144
   }, 
   "marina": {
-    "width": 18, 
-    "height": 18
+    "width": 78, 
+    "height": 78
   }, 
   "biergarten": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "scuba_diving": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "greengrocer": {
     "width": 76, 
     "height": 76
   }, 
   "bicycle_rental": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "townhall": {
     "width": 76, 
     "height": 76
   }, 
   "substation": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "hardware": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "hunting": {
     "width": 76, 
     "height": 76
   }, 
   "restaurant": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "ferry_terminal": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "atm": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "care_home": {
     "width": 68, 
     "height": 68
   }, 
   "airport": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "supermarket": {
     "width": 76, 
     "height": 76
   }, 
   "light_rail": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "bus_station": {
     "width": 76, 
     "height": 76
   }, 
   "castle": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "retail": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "ux-locate-on": {
     "width": 142, 
@@ -539,25 +547,33 @@
     "width": 68, 
     "height": 68
   }, 
+  "insurance": {
+    "width": 76, 
+    "height": 76
+  }, 
   "industrial": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "ux-route-arrow": {
-    "width": 128, 
-    "height": 128
+    "width": 256, 
+    "height": 256
   }, 
   "bridge": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
+  }, 
+  "tree-s": {
+    "width": 76, 
+    "height": 76
   }, 
   "recycling": {
     "width": 76, 
     "height": 76
   }, 
   "generic_shield-3char": {
-    "width": 132, 
-    "height": 72
+    "width": 264, 
+    "height": 144
   }, 
   "nursing_home": {
     "width": 68, 
@@ -568,20 +584,20 @@
     "height": 76
   }, 
   "florist": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "car_sharing": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "pharmacy": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "national_park": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "water_park": {
     "width": 76, 
@@ -600,36 +616,36 @@
     "height": 76
   }, 
   "tennis": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "sports": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "vineyard": {
-    "width": 60, 
-    "height": 54
+    "width": 78, 
+    "height": 78
   }, 
   "conservation": {
     "width": 76, 
     "height": 76
   }, 
   "music": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "stadium": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "ranger_station": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "aerodrome": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "townspot-m": {
     "width": 24, 
@@ -640,128 +656,124 @@
     "height": 32
   }, 
   "bbq": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "drinking_water": {
     "width": 76, 
     "height": 76
   }, 
   "mobile_phone": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "quarry": {
     "width": 78, 
     "height": 78
   }, 
   "county_shield-2char": {
-    "width": 88, 
-    "height": 72
+    "width": 176, 
+    "height": 144
   }, 
   "company": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "county_shield-5char": {
-    "width": 240, 
-    "height": 108
+    "width": 320, 
+    "height": 144
   }, 
   "motorcycle": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "capital-s": {
-    "width": 10, 
-    "height": 10
+    "width": 24, 
+    "height": 16
   }, 
   "sports_centre": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "dentist": {
     "width": 68, 
     "height": 68
   }, 
   "cinema": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "water_works": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "doctors": {
     "width": 68, 
     "height": 68
   }, 
   "painter": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "doityourself": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "dog_park": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "fort": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "observatory": {
     "width": 76, 
     "height": 76
   }, 
   "theme_park": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "car": {
-    "width": 54, 
-    "height": 54
-  }, 
-  "tree": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "bicycle_parking": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "shower": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "mall": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "computer": {
     "width": 76, 
     "height": 76
   }, 
   "store": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "winery": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "monument": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "newspaper": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "ferry": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "grass": {
     "width": 76, 
@@ -772,8 +784,8 @@
     "height": 76
   }, 
   "county_shield-3char": {
-    "width": 52, 
-    "height": 36
+    "width": 208, 
+    "height": 144
   }, 
   "gas_canister": {
     "width": 76, 
@@ -788,112 +800,116 @@
     "height": 76
   }, 
   "ux-transit-stop": {
+    "width": 44, 
+    "height": 36
+  }, 
+  "county_shield-1char": {
+    "width": 144, 
+    "height": 144
+  }, 
+  "townspot-s": {
     "width": 20, 
     "height": 20
   }, 
-  "county_shield-1char": {
-    "width": 108, 
-    "height": 108
-  }, 
-  "townspot-s": {
-    "width": 5, 
-    "height": 5
-  }, 
   "mine": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "townspot-m-rev": {
-    "width": 6, 
-    "height": 6
+    "width": 22, 
+    "height": 22
   }, 
   "wastewater_plant": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "capital-l": {
-    "width": 36, 
-    "height": 28
+    "width": 30, 
+    "height": 30
   }, 
   "capital-m": {
     "width": 28, 
     "height": 20
   }, 
   "estate_agent": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "station": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "cafe": {
     "width": 74, 
     "height": 74
   }, 
   "car_repair": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "photographic_laboratory": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "hangar": {
     "width": 68, 
     "height": 68
   }, 
   "factory": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "memorial": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "soccer": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "generic": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "buddhist": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "amusement_ride": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "butcher": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
-  "insurance": {
-    "width": 18, 
-    "height": 18
+  "enclosure": {
+    "width": 76, 
+    "height": 76
   }, 
   "caravan_site": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "jewish": {
     "width": 76, 
     "height": 76
   }, 
   "ux-search-inactive": {
-    "width": 36, 
-    "height": 54
+    "width": 144, 
+    "height": 216
   }, 
   "forest": {
     "width": 76, 
     "height": 76
   }, 
   "kiosk": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
+  }, 
+  "gate": {
+    "width": 76, 
+    "height": 76
   }, 
   "beach": {
     "width": 76, 
@@ -908,36 +924,36 @@
     "height": 76
   }, 
   "fire_station": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "mineshaft": {
     "width": 78, 
     "height": 78
   }, 
   "hotel": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "adit": {
     "width": 78, 
     "height": 78
   }, 
   "theatre": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "information": {
     "width": 70, 
     "height": 70
   }, 
   "park": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "office": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "picnic_site": {
     "width": 76, 
@@ -948,12 +964,12 @@
     "height": 76
   }, 
   "county_shield-4char": {
-    "width": 204, 
-    "height": 108
+    "width": 272, 
+    "height": 144
   }, 
   "historical": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "waterfall": {
     "width": 76, 
@@ -968,16 +984,16 @@
     "height": 76
   }, 
   "slipway": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "ice_cream": {
     "width": 76, 
     "height": 76
   }, 
   "ski_school": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "gallery": {
     "width": 76, 
@@ -988,32 +1004,32 @@
     "height": 76
   }, 
   "alcohol": {
-    "width": 54, 
-    "height": 54
+    "width": 76, 
+    "height": 76
   }, 
   "building": {
     "width": 68, 
     "height": 68
   }, 
   "train_station": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "recreation_track": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "townspot-xs-rev": {
-    "width": 6, 
-    "height": 6
+    "width": 10, 
+    "height": 10
   }, 
   "townspot-xs": {
-    "width": 12, 
-    "height": 12
+    "width": 16, 
+    "height": 16
   }, 
   "ux-route-start": {
-    "width": 72, 
-    "height": 92
+    "width": 144, 
+    "height": 184
   }, 
   "traffic_signals": {
     "width": 70, 
@@ -1024,16 +1040,16 @@
     "height": 76
   }, 
   "bakery": {
-    "width": 36, 
-    "height": 36
+    "width": 76, 
+    "height": 76
   }, 
   "natural_forest": {
     "width": 76, 
     "height": 76
   }, 
   "landmark": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }, 
   "dry_cleaning": {
     "width": 76, 
@@ -1044,7 +1060,7 @@
     "height": 76
   }, 
   "wine": {
-    "width": 18, 
-    "height": 18
+    "width": 76, 
+    "height": 76
   }
 }

@@ -259,10 +259,6 @@
     "width": 18, 
     "height": 18
   }, 
-  "church": {
-    "width": 18, 
-    "height": 18
-  }, 
   "plant": {
     "width": 18, 
     "height": 18
@@ -359,6 +355,10 @@
     "width": 18, 
     "height": 18
   }, 
+  "christian": {
+    "width": 18, 
+    "height": 18
+  }, 
   "ski_rental": {
     "width": 18, 
     "height": 18
@@ -367,7 +367,11 @@
     "width": 18, 
     "height": 18
   }, 
-  "lighthouse": {
+  "muslim": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "winter_sports": {
     "width": 18, 
     "height": 18
   }, 
@@ -475,10 +479,6 @@
     "width": 64, 
     "height": 64
   }, 
-  "mosque": {
-    "width": 18, 
-    "height": 18
-  }, 
   "recycling": {
     "width": 18, 
     "height": 18
@@ -507,9 +507,9 @@
     "width": 18, 
     "height": 18
   }, 
-  "townspot-s": {
-    "width": 5, 
-    "height": 5
+  "lighthouse": {
+    "width": 18, 
+    "height": 18
   }, 
   "confectionery": {
     "width": 18, 
@@ -687,6 +687,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "townspot-s": {
+    "width": 5, 
+    "height": 5
+  }, 
   "capital-s": {
     "width": 6, 
     "height": 6
@@ -735,11 +739,11 @@
     "width": 18, 
     "height": 18
   }, 
-  "synagogue": {
+  "generic": {
     "width": 18, 
     "height": 18
   }, 
-  "generic": {
+  "buddhist": {
     "width": 18, 
     "height": 18
   }, 
@@ -755,7 +759,7 @@
     "width": 18, 
     "height": 18
   }, 
-  "buddhism": {
+  "jewish": {
     "width": 18, 
     "height": 18
   }, 
