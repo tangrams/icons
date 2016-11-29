@@ -29,7 +29,7 @@ def extract_sprites(style, local, resolution):
         rsp = requests.get(src_yaml)
         yaml = rsp.content
 
-    print yaml
+    #print yaml
 
     # See notes and comments in here. Parsers, yeah?
     # https://github.com/whosonfirst/whosonfirst-www-boundaryissues/issues/73
