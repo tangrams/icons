@@ -4,8 +4,8 @@
     "height": 36
   }, 
   "capital-xl": {
-    "width": 20, 
-    "height": 20
+    "width": 42, 
+    "height": 36
   }, 
   "department_store": {
     "width": 36, 
@@ -24,8 +24,8 @@
     "height": 36
   }, 
   "capital-xs": {
-    "width": 8, 
-    "height": 8
+    "width": 16, 
+    "height": 16
   }, 
   "pitch": {
     "width": 36, 
@@ -112,8 +112,8 @@
     "height": 36
   }, 
   "townspot-s-rev": {
-    "width": 10, 
-    "height": 10
+    "width": 20, 
+    "height": 20
   }, 
   "generic_shield-2char": {
     "width": 98, 
@@ -136,8 +136,8 @@
     "height": 36
   }, 
   "townspot-xl": {
-    "width": 20, 
-    "height": 20
+    "width": 40, 
+    "height": 40
   }, 
   "dock": {
     "width": 38, 
@@ -188,8 +188,8 @@
     "height": 36
   }, 
   "townspot-l-rev": {
-    "width": 16, 
-    "height": 16
+    "width": 32, 
+    "height": 32
   }, 
   "university": {
     "width": 36, 
@@ -324,8 +324,8 @@
     "height": 36
   }, 
   "townspot-xl-rev": {
-    "width": 20, 
-    "height": 20
+    "width": 42, 
+    "height": 36
   }, 
   "fountain": {
     "width": 36, 
@@ -548,12 +548,12 @@
     "height": 36
   }, 
   "townspot-m": {
-    "width": 12, 
-    "height": 12
+    "width": 24, 
+    "height": 24
   }, 
   "townspot-l": {
-    "width": 16, 
-    "height": 16
+    "width": 32, 
+    "height": 32
   }, 
   "store": {
     "width": 36, 
@@ -680,36 +680,36 @@
     "height": 36
   }, 
   "ux-transit-stop": {
-    "width": 20, 
-    "height": 20
+    "width": 42, 
+    "height": 36
   }, 
   "county_shield-1char": {
     "width": 72, 
     "height": 72
   }, 
   "townspot-s": {
-    "width": 10, 
-    "height": 10
+    "width": 20, 
+    "height": 20
   }, 
   "capital-s": {
-    "width": 10, 
-    "height": 10
+    "width": 20, 
+    "height": 20
   }, 
   "townspot-m-rev": {
-    "width": 12, 
-    "height": 12
+    "width": 24, 
+    "height": 24
   }, 
   "wastewater_plant": {
     "width": 36, 
     "height": 36
   }, 
   "capital-l": {
-    "width": 16, 
-    "height": 16
+    "width": 36, 
+    "height": 30
   }, 
   "capital-m": {
-    "width": 12, 
-    "height": 12
+    "width": 24, 
+    "height": 24
   }, 
   "estate_agent": {
     "width": 36, 
@@ -844,12 +844,12 @@
     "height": 36
   }, 
   "townspot-xs-rev": {
-    "width": 6, 
-    "height": 6
+    "width": 12, 
+    "height": 12
   }, 
   "townspot-xs": {
-    "width": 8, 
-    "height": 8
+    "width": 16, 
+    "height": 16
   }, 
   "traffic_signals": {
     "width": 36, 

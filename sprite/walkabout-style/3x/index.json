@@ -8,8 +8,8 @@
     "height": 54
   }, 
   "capital-xl": {
-    "width": 33, 
-    "height": 27
+    "width": 63, 
+    "height": 54
   }, 
   "department_store": {
     "width": 54, 
@@ -132,8 +132,8 @@
     "height": 54
   }, 
   "townspot-s-rev": {
-    "width": 18, 
-    "height": 12
+    "width": 33, 
+    "height": 27
   }, 
   "dive_centre": {
     "width": 54, 
@@ -164,8 +164,8 @@
     "height": 54
   }, 
   "townspot-xl": {
-    "width": 30, 
-    "height": 30
+    "width": 60, 
+    "height": 60
   }, 
   "dock": {
     "width": 60, 
@@ -335,10 +335,6 @@
     "width": 54, 
     "height": 54
   }, 
-  "tree-xs": {
-    "width": 54, 
-    "height": 54
-  }, 
   "recreation_ground": {
     "width": 54, 
     "height": 54
@@ -365,6 +361,10 @@
   }, 
   "tram_stop": {
     "width": 54, 
+    "height": 54
+  }, 
+  "townspot-xl-rev": {
+    "width": 60, 
     "height": 54
   }, 
   "fountain": {
@@ -616,12 +616,12 @@
     "height": 54
   }, 
   "townspot-m": {
-    "width": 18, 
-    "height": 18
+    "width": 36, 
+    "height": 36
   }, 
   "townspot-l": {
-    "width": 24, 
-    "height": 24
+    "width": 48, 
+    "height": 48
   }, 
   "bbq": {
     "width": 54, 
@@ -660,8 +660,8 @@
     "height": 54
   }, 
   "capital-s": {
-    "width": 18, 
-    "height": 12
+    "width": 33, 
+    "height": 27
   }, 
   "sports_centre": {
     "width": 54, 
@@ -708,6 +708,10 @@
     "height": 54
   }, 
   "car": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "tree": {
     "width": 54, 
     "height": 54
   }, 
@@ -772,16 +776,16 @@
     "height": 54
   }, 
   "ux-transit-stop": {
-    "width": 33, 
-    "height": 27
+    "width": 63, 
+    "height": 54
   }, 
   "county_shield-1char": {
     "width": 108, 
     "height": 108
   }, 
   "townspot-s": {
-    "width": 15, 
-    "height": 15
+    "width": 30, 
+    "height": 30
   }, 
   "mine": {
     "width": 54, 
@@ -796,8 +800,8 @@
     "height": 54
   }, 
   "capital-m": {
-    "width": 21, 
-    "height": 15
+    "width": 39, 
+    "height": 33
   }, 
   "estate_agent": {
     "width": 54, 
@@ -988,8 +992,8 @@
     "height": 54
   }, 
   "townspot-xs": {
-    "width": 12, 
-    "height": 12
+    "width": 24, 
+    "height": 24
   }, 
   "ux-route-start": {
     "width": 108, 

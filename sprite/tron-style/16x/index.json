@@ -4,8 +4,8 @@
     "height": 288
   }, 
   "capital-xl": {
-    "width": 176, 
-    "height": 176
+    "width": 320, 
+    "height": 304
   }, 
   "department_store": {
     "width": 304, 
@@ -24,8 +24,8 @@
     "height": 288
   }, 
   "capital-xs": {
-    "width": 64, 
-    "height": 48
+    "width": 128, 
+    "height": 112
   }, 
   "pitch": {
     "width": 304, 
@@ -116,8 +116,8 @@
     "height": 288
   }, 
   "townspot-s-rev": {
-    "width": 96, 
-    "height": 80
+    "width": 176, 
+    "height": 144
   }, 
   "generic_shield-2char": {
     "width": 784, 
@@ -140,8 +140,8 @@
     "height": 288
   }, 
   "townspot-xl": {
-    "width": 176, 
-    "height": 176
+    "width": 352, 
+    "height": 320
   }, 
   "dock": {
     "width": 288, 
@@ -192,8 +192,8 @@
     "height": 288
   }, 
   "townspot-l-rev": {
-    "width": 192, 
-    "height": 176
+    "width": 288, 
+    "height": 240
   }, 
   "university": {
     "width": 288, 
@@ -336,8 +336,8 @@
     "height": 288
   }, 
   "townspot-xl-rev": {
-    "width": 160, 
-    "height": 144
+    "width": 320, 
+    "height": 304
   }, 
   "fountain": {
     "width": 288, 
@@ -531,6 +531,10 @@
     "width": 304, 
     "height": 288
   }, 
+  "computer": {
+    "width": 304, 
+    "height": 288
+  }, 
   "museum": {
     "width": 288, 
     "height": 288
@@ -564,12 +568,12 @@
     "height": 288
   }, 
   "townspot-m": {
-    "width": 112, 
-    "height": 112
+    "width": 192, 
+    "height": 176
   }, 
   "townspot-l": {
-    "width": 144, 
-    "height": 144
+    "width": 256, 
+    "height": 240
   }, 
   "store": {
     "width": 304, 
@@ -595,8 +599,8 @@
     "width": 288, 
     "height": 288
   }, 
-  "county_shield-5char": {
-    "width": 1440, 
+  "train_station-l": {
+    "width": 576, 
     "height": 576
   }, 
   "kiosk": {
@@ -659,9 +663,13 @@
     "width": 304, 
     "height": 288
   }, 
-  "computer": {
-    "width": 304, 
-    "height": 288
+  "airport-l": {
+    "width": 576, 
+    "height": 576
+  }, 
+  "park-l": {
+    "width": 576, 
+    "height": 576
   }, 
   "winery": {
     "width": 288, 
@@ -696,40 +704,36 @@
     "height": 288
   }, 
   "ux-transit-stop": {
-    "width": 176, 
-    "height": 144
+    "width": 336, 
+    "height": 304
   }, 
   "county_shield-1char": {
     "width": 576, 
     "height": 576
   }, 
   "townspot-s": {
-    "width": 96, 
-    "height": 96
-  }, 
-  "train_station-xl": {
-    "width": 576, 
-    "height": 576
+    "width": 176, 
+    "height": 144
   }, 
   "capital-s": {
-    "width": 96, 
-    "height": 64
+    "width": 176, 
+    "height": 144
   }, 
   "townspot-m-rev": {
-    "width": 160, 
-    "height": 144
+    "width": 208, 
+    "height": 176
   }, 
   "wastewater_plant": {
     "width": 288, 
     "height": 288
   }, 
   "capital-l": {
-    "width": 144, 
-    "height": 144
+    "width": 272, 
+    "height": 240
   }, 
   "capital-m": {
-    "width": 112, 
-    "height": 112
+    "width": 192, 
+    "height": 192
   }, 
   "estate_agent": {
     "width": 288, 
@@ -750,10 +754,6 @@
   "photographic_laboratory": {
     "width": 288, 
     "height": 272
-  }, 
-  "park-xl": {
-    "width": 576, 
-    "height": 576
   }, 
   "hangar": {
     "width": 288, 
@@ -778,10 +778,6 @@
   "buddhist": {
     "width": 288, 
     "height": 288
-  }, 
-  "airport-xl": {
-    "width": 576, 
-    "height": 576
   }, 
   "amusement_ride": {
     "width": 288, 
@@ -823,9 +819,9 @@
     "width": 288, 
     "height": 288
   }, 
-  "hotel": {
-    "width": 288, 
-    "height": 272
+  "county_shield-5char": {
+    "width": 1440, 
+    "height": 576
   }, 
   "adit": {
     "width": 288, 
@@ -835,15 +831,15 @@
     "width": 288, 
     "height": 288
   }, 
-  "mountain": {
-    "width": 288, 
-    "height": 288
-  }, 
   "park": {
     "width": 288, 
     "height": 288
   }, 
   "office": {
+    "width": 288, 
+    "height": 288
+  }, 
+  "natural_forest": {
     "width": 288, 
     "height": 288
   }, 
@@ -876,12 +872,12 @@
     "height": 272
   }, 
   "townspot-xs-rev": {
-    "width": 48, 
-    "height": 32
+    "width": 128, 
+    "height": 112
   }, 
   "townspot-xs": {
-    "width": 80, 
-    "height": 80
+    "width": 128, 
+    "height": 112
   }, 
   "traffic_signals": {
     "width": 288, 
@@ -895,9 +891,9 @@
     "width": 288, 
     "height": 272
   }, 
-  "natural_forest": {
+  "hotel": {
     "width": 288, 
-    "height": 288
+    "height": 272
   }, 
   "landmark": {
     "width": 288, 

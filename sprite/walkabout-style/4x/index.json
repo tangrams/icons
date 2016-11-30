@@ -8,8 +8,8 @@
     "height": 76
   }, 
   "capital-xl": {
-    "width": 44, 
-    "height": 36
+    "width": 84, 
+    "height": 76
   }, 
   "department_store": {
     "width": 76, 
@@ -32,8 +32,8 @@
     "height": 76
   }, 
   "capital-xs": {
-    "width": 14, 
-    "height": 14
+    "width": 30, 
+    "height": 30
   }, 
   "fishing": {
     "width": 76, 
@@ -140,8 +140,8 @@
     "height": 76
   }, 
   "townspot-s-rev": {
-    "width": 24, 
-    "height": 16
+    "width": 44, 
+    "height": 36
   }, 
   "dive_centre": {
     "width": 76, 
@@ -172,8 +172,8 @@
     "height": 76
   }, 
   "townspot-xl": {
-    "width": 40, 
-    "height": 40
+    "width": 80, 
+    "height": 80
   }, 
   "dock": {
     "width": 78, 
@@ -220,8 +220,8 @@
     "height": 76
   }, 
   "townspot-l-rev": {
-    "width": 30, 
-    "height": 30
+    "width": 62, 
+    "height": 62
   }, 
   "university": {
     "width": 76, 
@@ -351,10 +351,6 @@
     "width": 76, 
     "height": 76
   }, 
-  "tree-xs": {
-    "width": 76, 
-    "height": 76
-  }, 
   "recreation_ground": {
     "width": 76, 
     "height": 76
@@ -384,8 +380,8 @@
     "height": 76
   }, 
   "townspot-xl-rev": {
-    "width": 38, 
-    "height": 38
+    "width": 78, 
+    "height": 78
   }, 
   "fountain": {
     "width": 76, 
@@ -648,12 +644,12 @@
     "height": 76
   }, 
   "townspot-m": {
-    "width": 24, 
-    "height": 24
+    "width": 48, 
+    "height": 48
   }, 
   "townspot-l": {
-    "width": 32, 
-    "height": 32
+    "width": 64, 
+    "height": 64
   }, 
   "bbq": {
     "width": 76, 
@@ -688,8 +684,8 @@
     "height": 76
   }, 
   "capital-s": {
-    "width": 24, 
-    "height": 16
+    "width": 44, 
+    "height": 36
   }, 
   "sports_centre": {
     "width": 76, 
@@ -736,6 +732,10 @@
     "height": 76
   }, 
   "car": {
+    "width": 76, 
+    "height": 76
+  }, 
+  "tree": {
     "width": 76, 
     "height": 76
   }, 
@@ -800,36 +800,36 @@
     "height": 76
   }, 
   "ux-transit-stop": {
-    "width": 44, 
-    "height": 36
+    "width": 84, 
+    "height": 76
   }, 
   "county_shield-1char": {
     "width": 144, 
     "height": 144
   }, 
   "townspot-s": {
-    "width": 20, 
-    "height": 20
+    "width": 40, 
+    "height": 40
   }, 
   "mine": {
     "width": 76, 
     "height": 76
   }, 
   "townspot-m-rev": {
-    "width": 22, 
-    "height": 22
+    "width": 46, 
+    "height": 46
   }, 
   "wastewater_plant": {
     "width": 76, 
     "height": 76
   }, 
   "capital-l": {
-    "width": 30, 
-    "height": 30
+    "width": 62, 
+    "height": 62
   }, 
   "capital-m": {
-    "width": 28, 
-    "height": 20
+    "width": 52, 
+    "height": 44
   }, 
   "estate_agent": {
     "width": 76, 
@@ -1020,12 +1020,12 @@
     "height": 76
   }, 
   "townspot-xs-rev": {
-    "width": 10, 
-    "height": 10
+    "width": 22, 
+    "height": 22
   }, 
   "townspot-xs": {
-    "width": 16, 
-    "height": 16
+    "width": 32, 
+    "height": 32
   }, 
   "ux-route-start": {
     "width": 144, 

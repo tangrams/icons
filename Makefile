@@ -1,5 +1,8 @@
 all: refill-sprites bubble-wrap-sprites walkabout-sprites tron-sprites
 
+clean:
+	rm -rf sprite
+
 refill-sprites:
 	./bin/extract.py -s refill -l -r 1 -o ./sprite
 	./bin/extract.py -s refill -l -r 2 -o ./sprite
