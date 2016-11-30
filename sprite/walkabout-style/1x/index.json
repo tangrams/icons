@@ -163,6 +163,10 @@
     "width": 18, 
     "height": 18
   }, 
+  "dam": {
+    "width": 18, 
+    "height": 18
+  }, 
   "golf_course": {
     "width": 18, 
     "height": 18
@@ -344,6 +348,10 @@
     "height": 18
   }, 
   "hostel": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "tree-xs": {
     "width": 18, 
     "height": 18
   }, 
@@ -539,6 +547,10 @@
     "width": 18, 
     "height": 18
   }, 
+  "insurance": {
+    "width": 18, 
+    "height": 18
+  }, 
   "industrial": {
     "width": 18, 
     "height": 18
@@ -548,6 +560,10 @@
     "height": 64
   }, 
   "bridge": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "tree-s": {
     "width": 18, 
     "height": 18
   }, 
@@ -723,10 +739,6 @@
     "width": 18, 
     "height": 18
   }, 
-  "tree": {
-    "width": 18, 
-    "height": 18
-  }, 
   "bicycle_parking": {
     "width": 18, 
     "height": 18
@@ -812,8 +824,8 @@
     "height": 18
   }, 
   "capital-l": {
-    "width": 9, 
-    "height": 9
+    "width": 8, 
+    "height": 8
   }, 
   "capital-m": {
     "width": 7, 
@@ -871,7 +883,7 @@
     "width": 18, 
     "height": 18
   }, 
-  "insurance": {
+  "enclosure": {
     "width": 18, 
     "height": 18
   }, 
@@ -892,6 +904,10 @@
     "height": 18
   }, 
   "kiosk": {
+    "width": 18, 
+    "height": 18
+  }, 
+  "gate": {
     "width": 18, 
     "height": 18
   }, 
