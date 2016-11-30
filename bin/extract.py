@@ -10,7 +10,11 @@ import json
 import re
 
 import cStringIO
-from PIL import Image
+
+try:
+    from PIL import Image as _imaging
+except ImportError:
+    from PIL.Image import core as _imaging
 
 pat = re.compile('([^\:]+)\:\s+\[(\d+),\s+(\d+),\s+(\d+),\s+(\d+)\]')
 
@@ -147,7 +151,7 @@ if __name__ == '__main__':
         src_spritesheet = "spritesheet/%s@%sx.png" % (style, resolution)
         fh_spritesheet = open(src_spritesheet, 'r')
 
-        img = Image.open(fh_spritesheet)
+        img = _imaging.open(fh_spritesheet)
     else:
         if style == "bubble-wrap":
             src_spritesheet = "https://mapzen.com/carto/%s-style/%s"  % (style, spritesheet)
@@ -156,7 +160,7 @@ if __name__ == '__main__':
         rsp = requests.get(src_spritesheet)
 
         fh = cStringIO.StringIO(rsp.content)
-        img = Image.open(fh)
+        img = _imaging.open(fh)
 
     index = {}
 
