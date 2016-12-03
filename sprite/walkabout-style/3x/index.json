@@ -3,6 +3,10 @@
     "width": 54, 
     "height": 54
   }, 
+  "category-predicate-drink": {
+    "width": 54, 
+    "height": 54
+  }, 
   "fitness_station": {
     "width": 54, 
     "height": 54
@@ -31,7 +35,7 @@
     "width": 54, 
     "height": 54
   }, 
-  "pitch": {
+  "skiing": {
     "width": 54, 
     "height": 54
   }, 
@@ -44,6 +48,10 @@
     "height": 54
   }, 
   "archaeological_site": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "category-namespace-mobility": {
     "width": 54, 
     "height": 54
   }, 
@@ -71,15 +79,15 @@
     "width": 54, 
     "height": 54
   }, 
-  "ux-search-active": {
-    "width": 108, 
-    "height": 162
+  "category-namespace-other": {
+    "width": 54, 
+    "height": 54
   }, 
   "photographer": {
     "width": 54, 
     "height": 54
   }, 
-  "ruin": {
+  "category-predicate-shop": {
     "width": 54, 
     "height": 54
   }, 
@@ -175,6 +183,10 @@
     "width": 54, 
     "height": 54
   }, 
+  "category-namespace-shop_and_service": {
+    "width": 54, 
+    "height": 54
+  }, 
   "pier": {
     "width": 54, 
     "height": 54
@@ -199,6 +211,10 @@
     "width": 54, 
     "height": 54
   }, 
+  "category-predicate-eat": {
+    "width": 54, 
+    "height": 54
+  }, 
   "bar": {
     "width": 54, 
     "height": 54
@@ -216,6 +232,10 @@
     "height": 54
   }, 
   "brewery": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "category-predicate-addressing": {
     "width": 54, 
     "height": 54
   }, 
@@ -259,6 +279,10 @@
     "width": 54, 
     "height": 54
   }, 
+  "category-namespace-eat_and_drink": {
+    "width": 54, 
+    "height": 54
+  }, 
   "clothes": {
     "width": 54, 
     "height": 54
@@ -279,11 +303,15 @@
     "width": 54, 
     "height": 54
   }, 
+  "mall": {
+    "width": 54, 
+    "height": 54
+  }, 
   "apartments": {
     "width": 54, 
     "height": 54
   }, 
-  "spring": {
+  "category-predicate-civic": {
     "width": 54, 
     "height": 54
   }, 
@@ -291,7 +319,7 @@
     "width": 54, 
     "height": 54
   }, 
-  "skiing": {
+  "category-predicate-money": {
     "width": 54, 
     "height": 54
   }, 
@@ -327,11 +355,19 @@
     "width": 54, 
     "height": 54
   }, 
+  "capital-m": {
+    "width": 39, 
+    "height": 33
+  }, 
   "post_office": {
     "width": 54, 
     "height": 54
   }, 
   "hostel": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "category-predicate-service": {
     "width": 54, 
     "height": 54
   }, 
@@ -471,6 +507,10 @@
     "width": 54, 
     "height": 54
   }, 
+  "hardware": {
+    "width": 54, 
+    "height": 54
+  }, 
   "hunting": {
     "width": 54, 
     "height": 54
@@ -483,9 +523,9 @@
     "width": 54, 
     "height": 54
   }, 
-  "atm": {
-    "width": 54, 
-    "height": 54
+  "ux-search-active": {
+    "width": 108, 
+    "height": 162
   }, 
   "care_home": {
     "width": 54, 
@@ -515,7 +555,15 @@
     "width": 54, 
     "height": 54
   }, 
+  "category-predicate-mobility": {
+    "width": 54, 
+    "height": 54
+  }, 
   "insurance": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "category-predicate-nature": {
     "width": 54, 
     "height": 54
   }, 
@@ -531,6 +579,10 @@
     "width": 54, 
     "height": 54
   }, 
+  "pitch": {
+    "width": 54, 
+    "height": 54
+  }, 
   "tree-s": {
     "width": 54, 
     "height": 54
@@ -542,6 +594,10 @@
   "generic_shield-3char": {
     "width": 198, 
     "height": 108
+  }, 
+  "fashion": {
+    "width": 54, 
+    "height": 54
   }, 
   "nursing_home": {
     "width": 54, 
@@ -607,6 +663,10 @@
     "width": 54, 
     "height": 54
   }, 
+  "spring": {
+    "width": 54, 
+    "height": 54
+  }, 
   "ranger_station": {
     "width": 54, 
     "height": 54
@@ -633,6 +693,10 @@
   }, 
   "substation": {
     "width": 54, 
+    "height": 54
+  }, 
+  "category-namespace-do_and_see": {
+    "width": 60, 
     "height": 54
   }, 
   "mobile_phone": {
@@ -667,9 +731,9 @@
     "width": 54, 
     "height": 54
   }, 
-  "dentist": {
-    "width": 54, 
-    "height": 54
+  "ux-route-start": {
+    "width": 108, 
+    "height": 138
   }, 
   "cinema": {
     "width": 54, 
@@ -723,7 +787,7 @@
     "width": 54, 
     "height": 54
   }, 
-  "mall": {
+  "category-predicate-sleep": {
     "width": 54, 
     "height": 54
   }, 
@@ -763,11 +827,15 @@
     "width": 156, 
     "height": 108
   }, 
+  "category-predicate-attraction": {
+    "width": 60, 
+    "height": 54
+  }, 
   "gas_canister": {
     "width": 54, 
     "height": 54
   }, 
-  "fashion": {
+  "atm": {
     "width": 54, 
     "height": 54
   }, 
@@ -791,7 +859,7 @@
     "width": 54, 
     "height": 54
   }, 
-  "hardware": {
+  "category-namespace-education_and_religion": {
     "width": 54, 
     "height": 54
   }, 
@@ -799,15 +867,19 @@
     "width": 54, 
     "height": 54
   }, 
-  "capital-m": {
-    "width": 39, 
-    "height": 33
+  "ruin": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "category-predicate-fun": {
+    "width": 54, 
+    "height": 54
   }, 
   "estate_agent": {
     "width": 54, 
     "height": 54
   }, 
-  "station": {
+  "category-predicate-education": {
     "width": 54, 
     "height": 54
   }, 
@@ -839,11 +911,19 @@
     "width": 54, 
     "height": 54
   }, 
+  "category-predicate-health": {
+    "width": 54, 
+    "height": 54
+  }, 
   "generic": {
     "width": 54, 
     "height": 54
   }, 
   "buddhist": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "category-predicate-transport": {
     "width": 54, 
     "height": 54
   }, 
@@ -939,6 +1019,10 @@
     "width": 204, 
     "height": 108
   }, 
+  "category-predicate-industry": {
+    "width": 54, 
+    "height": 54
+  }, 
   "historical": {
     "width": 54, 
     "height": 54
@@ -995,9 +1079,13 @@
     "width": 24, 
     "height": 24
   }, 
-  "ux-route-start": {
-    "width": 108, 
-    "height": 138
+  "station": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "dentist": {
+    "width": 54, 
+    "height": 54
   }, 
   "traffic_signals": {
     "width": 54, 
@@ -1011,6 +1099,10 @@
     "width": 54, 
     "height": 54
   }, 
+  "category-namespace-health": {
+    "width": 54, 
+    "height": 54
+  }, 
   "natural_forest": {
     "width": 54, 
     "height": 54
@@ -1020,6 +1112,10 @@
     "height": 54
   }, 
   "dry_cleaning": {
+    "width": 54, 
+    "height": 54
+  }, 
+  "category-predicate-religion": {
     "width": 54, 
     "height": 54
   }, 
