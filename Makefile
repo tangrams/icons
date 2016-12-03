@@ -1,9 +1,9 @@
-all: refill-sprites bubble-wrap-sprites walkabout-sprites tron-sprites
+all: refill bubble-wrap walkabout tron
 
 clean:
 	rm -rf sprite
 
-refill-sprites:
+refill:
 	./bin/extract.py -s refill -l -r 1 -o ./sprite
 	./bin/extract.py -s refill -l -r 2 -o ./sprite
 	./bin/extract.py -s refill -l -r 3 -o ./sprite
@@ -11,7 +11,7 @@ refill-sprites:
 	./bin/extract.py -s refill -l -r 8 -o ./sprite
 	./bin/extract.py -s refill -l -r 16 -o ./sprite
 
-bubble-wrap-sprites:
+bubble-wrap:
 	./bin/extract.py -s bubble-wrap -l -r 1 -o ./sprite
 	./bin/extract.py -s bubble-wrap -l -r 2 -o ./sprite
 	./bin/extract.py -s bubble-wrap -l -r 3 -o ./sprite
@@ -19,7 +19,7 @@ bubble-wrap-sprites:
 	./bin/extract.py -s bubble-wrap -l -r 8 -o ./sprite
 	./bin/extract.py -s bubble-wrap -l -r 16 -o ./sprite
 
-walkabout-sprites:
+walkabout:
 	./bin/extract.py -s walkabout -l -r 1 -o ./sprite
 	./bin/extract.py -s walkabout -l -r 2 -o ./sprite
 	./bin/extract.py -s walkabout -l -r 3 -o ./sprite
@@ -27,7 +27,7 @@ walkabout-sprites:
 	./bin/extract.py -s walkabout -l -r 8 -o ./sprite
 	./bin/extract.py -s walkabout -l -r 16 -o ./sprite
 
-tron-sprites:
+tron:
 	./bin/extract.py -s tron -l -r 1 -o ./sprite
 	./bin/extract.py -s tron -l -r 2 -o ./sprite
 	./bin/extract.py -s tron -l -r 3 -o ./sprite
