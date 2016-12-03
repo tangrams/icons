@@ -1,4 +1,8 @@
 {
+  "category-predicate-drink": {
+    "width": 70, 
+    "height": 70
+  }, 
   "fitness_station": {
     "width": 74, 
     "height": 74
@@ -43,6 +47,10 @@
     "width": 72, 
     "height": 72
   }, 
+  "category-namespace-mobility": {
+    "width": 72, 
+    "height": 72
+  }, 
   "toilets": {
     "width": 72, 
     "height": 72
@@ -63,17 +71,17 @@
     "width": 72, 
     "height": 72
   }, 
-  "ux-search-active": {
-    "width": 144, 
-    "height": 216
+  "category-namespace-other": {
+    "width": 76, 
+    "height": 76
   }, 
   "photographer": {
     "width": 70, 
     "height": 70
   }, 
-  "ruin": {
-    "width": 72, 
-    "height": 72
+  "category-predicate-shop": {
+    "width": 74, 
+    "height": 74
   }, 
   "lighthouse": {
     "width": 72, 
@@ -151,9 +159,9 @@
     "width": 74, 
     "height": 74
   }, 
-  "tram_stop": {
-    "width": 72, 
-    "height": 72
+  "category-namespace-shop_and_service": {
+    "width": 74, 
+    "height": 74
   }, 
   "pier": {
     "width": 72, 
@@ -179,6 +187,10 @@
     "width": 70, 
     "height": 70
   }, 
+  "category-predicate-eat": {
+    "width": 72, 
+    "height": 72
+  }, 
   "bar": {
     "width": 70, 
     "height": 70
@@ -202,6 +214,10 @@
   "brewery": {
     "width": 72, 
     "height": 72
+  }, 
+  "category-predicate-addressing": {
+    "width": 76, 
+    "height": 76
   }, 
   "bus_stop": {
     "width": 72, 
@@ -239,6 +255,10 @@
     "width": 72, 
     "height": 72
   }, 
+  "category-namespace-eat_and_drink": {
+    "width": 72, 
+    "height": 72
+  }, 
   "clothes": {
     "width": 74, 
     "height": 74
@@ -263,13 +283,17 @@
     "width": 70, 
     "height": 70
   }, 
-  "spring": {
+  "category-predicate-civic": {
     "width": 72, 
     "height": 72
   }, 
   "liquor": {
     "width": 74, 
     "height": 74
+  }, 
+  "category-predicate-money": {
+    "width": 72, 
+    "height": 72
   }, 
   "plant": {
     "width": 72, 
@@ -299,6 +323,10 @@
     "width": 68, 
     "height": 68
   }, 
+  "capital-m": {
+    "width": 48, 
+    "height": 48
+  }, 
   "insurance": {
     "width": 72, 
     "height": 72
@@ -306,6 +334,10 @@
   "hostel": {
     "width": 70, 
     "height": 70
+  }, 
+  "category-predicate-service": {
+    "width": 72, 
+    "height": 72
   }, 
   "recreation_ground": {
     "width": 74, 
@@ -331,7 +363,7 @@
     "width": 70, 
     "height": 70
   }, 
-  "factory": {
+  "tram_stop": {
     "width": 72, 
     "height": 72
   }, 
@@ -443,9 +475,9 @@
     "width": 72, 
     "height": 72
   }, 
-  "atm": {
-    "width": 72, 
-    "height": 72
+  "ux-search-active": {
+    "width": 144, 
+    "height": 216
   }, 
   "care_home": {
     "width": 70, 
@@ -483,6 +515,10 @@
     "width": 72, 
     "height": 72
   }, 
+  "category-predicate-nature": {
+    "width": 72, 
+    "height": 72
+  }, 
   "industrial": {
     "width": 72, 
     "height": 72
@@ -498,6 +534,10 @@
   "generic_shield-3char": {
     "width": 264, 
     "height": 144
+  }, 
+  "fashion": {
+    "width": 74, 
+    "height": 74
   }, 
   "nursing_home": {
     "width": 70, 
@@ -563,6 +603,10 @@
     "width": 74, 
     "height": 74
   }, 
+  "spring": {
+    "width": 72, 
+    "height": 72
+  }, 
   "aerodrome": {
     "width": 72, 
     "height": 72
@@ -580,6 +624,10 @@
     "height": 74
   }, 
   "drinking_water": {
+    "width": 72, 
+    "height": 72
+  }, 
+  "category-namespace-do_and_see": {
     "width": 72, 
     "height": 72
   }, 
@@ -627,6 +675,10 @@
     "width": 72, 
     "height": 72
   }, 
+  "station": {
+    "width": 72, 
+    "height": 72
+  }, 
   "painter": {
     "width": 74, 
     "height": 74
@@ -635,9 +687,9 @@
     "width": 74, 
     "height": 74
   }, 
-  "hardware": {
-    "width": 74, 
-    "height": 74
+  "category-namespace-education_and_religion": {
+    "width": 70, 
+    "height": 70
   }, 
   "fort": {
     "width": 72, 
@@ -659,9 +711,9 @@
     "width": 74, 
     "height": 74
   }, 
-  "mall": {
-    "width": 74, 
-    "height": 74
+  "category-predicate-sleep": {
+    "width": 70, 
+    "height": 70
   }, 
   "airport-l": {
     "width": 144, 
@@ -695,13 +747,17 @@
     "width": 264, 
     "height": 144
   }, 
+  "category-predicate-attraction": {
+    "width": 72, 
+    "height": 72
+  }, 
   "bridge": {
     "width": 72, 
     "height": 72
   }, 
-  "fashion": {
-    "width": 74, 
-    "height": 74
+  "atm": {
+    "width": 72, 
+    "height": 72
   }, 
   "ux-transit-stop": {
     "width": 84, 
@@ -731,17 +787,21 @@
     "width": 68, 
     "height": 60
   }, 
-  "capital-m": {
-    "width": 48, 
-    "height": 48
+  "ruin": {
+    "width": 72, 
+    "height": 72
+  }, 
+  "category-predicate-fun": {
+    "width": 72, 
+    "height": 72
   }, 
   "estate_agent": {
     "width": 72, 
     "height": 72
   }, 
-  "station": {
-    "width": 72, 
-    "height": 72
+  "category-predicate-education": {
+    "width": 70, 
+    "height": 70
   }, 
   "cafe": {
     "width": 72, 
@@ -759,9 +819,9 @@
     "width": 70, 
     "height": 70
   }, 
-  "information": {
-    "width": 76, 
-    "height": 76
+  "factory": {
+    "width": 72, 
+    "height": 72
   }, 
   "memorial": {
     "width": 72, 
@@ -771,11 +831,19 @@
     "width": 74, 
     "height": 74
   }, 
+  "category-predicate-health": {
+    "width": 70, 
+    "height": 70
+  }, 
   "generic": {
     "width": 76, 
     "height": 76
   }, 
   "buddhist": {
+    "width": 72, 
+    "height": 72
+  }, 
+  "category-predicate-transport": {
     "width": 72, 
     "height": 72
   }, 
@@ -831,6 +899,10 @@
     "width": 72, 
     "height": 72
   }, 
+  "information": {
+    "width": 76, 
+    "height": 76
+  }, 
   "park": {
     "width": 72, 
     "height": 72
@@ -846,6 +918,14 @@
   "county_shield-4char": {
     "width": 304, 
     "height": 144
+  }, 
+  "category-predicate-industry": {
+    "width": 72, 
+    "height": 72
+  }, 
+  "hardware": {
+    "width": 74, 
+    "height": 74
   }, 
   "peak": {
     "width": 72, 
@@ -871,6 +951,10 @@
     "width": 70, 
     "height": 70
   }, 
+  "category-predicate-mobility": {
+    "width": 72, 
+    "height": 72
+  }, 
   "townspot-xs-rev": {
     "width": 30, 
     "height": 30
@@ -878,6 +962,10 @@
   "townspot-xs": {
     "width": 30, 
     "height": 30
+  }, 
+  "mall": {
+    "width": 74, 
+    "height": 74
   }, 
   "traffic_signals": {
     "width": 70, 
@@ -891,6 +979,10 @@
     "width": 70, 
     "height": 70
   }, 
+  "category-namespace-health": {
+    "width": 70, 
+    "height": 70
+  }, 
   "hotel": {
     "width": 70, 
     "height": 70
@@ -898,6 +990,10 @@
   "landmark": {
     "width": 72, 
     "height": 72
+  }, 
+  "category-predicate-religion": {
+    "width": 70, 
+    "height": 70
   }, 
   "camp_site": {
     "width": 72, 
