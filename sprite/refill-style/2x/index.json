@@ -1,4 +1,8 @@
 {
+  "category-predicate-drink": {
+    "width": 36, 
+    "height": 36
+  }, 
   "fitness_station": {
     "width": 36, 
     "height": 36
@@ -43,6 +47,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "category-namespace-mobility": {
+    "width": 36, 
+    "height": 36
+  }, 
   "toilets": {
     "width": 36, 
     "height": 36
@@ -63,15 +71,19 @@
     "width": 36, 
     "height": 36
   }, 
-  "ux-search-active": {
-    "width": 72, 
-    "height": 108
+  "category-namespace-other": {
+    "width": 36, 
+    "height": 36
   }, 
   "photographer": {
     "width": 36, 
     "height": 36
   }, 
-  "ruin": {
+  "category-predicate-shop": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "category-predicate-education": {
     "width": 36, 
     "height": 36
   }, 
@@ -147,7 +159,7 @@
     "width": 36, 
     "height": 36
   }, 
-  "tram_stop": {
+  "category-namespace-shop_and_service": {
     "width": 36, 
     "height": 36
   }, 
@@ -175,6 +187,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "category-predicate-eat": {
+    "width": 36, 
+    "height": 36
+  }, 
   "bar": {
     "width": 36, 
     "height": 36
@@ -196,6 +212,10 @@
     "height": 36
   }, 
   "brewery": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "category-predicate-addressing": {
     "width": 36, 
     "height": 36
   }, 
@@ -231,6 +251,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "category-namespace-eat_and_drink": {
+    "width": 36, 
+    "height": 36
+  }, 
   "clothes": {
     "width": 36, 
     "height": 36
@@ -251,11 +275,15 @@
     "width": 36, 
     "height": 36
   }, 
-  "spring": {
+  "category-predicate-civic": {
     "width": 36, 
     "height": 36
   }, 
   "liquor": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "category-predicate-money": {
     "width": 36, 
     "height": 36
   }, 
@@ -287,11 +315,19 @@
     "width": 36, 
     "height": 36
   }, 
+  "capital-m": {
+    "width": 24, 
+    "height": 24
+  }, 
   "insurance": {
     "width": 36, 
     "height": 36
   }, 
   "hostel": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "category-predicate-service": {
     "width": 36, 
     "height": 36
   }, 
@@ -319,7 +355,7 @@
     "width": 36, 
     "height": 36
   }, 
-  "factory": {
+  "tram_stop": {
     "width": 36, 
     "height": 36
   }, 
@@ -423,6 +459,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "hardware": {
+    "width": 36, 
+    "height": 36
+  }, 
   "restaurant": {
     "width": 36, 
     "height": 36
@@ -431,9 +471,9 @@
     "width": 36, 
     "height": 36
   }, 
-  "atm": {
-    "width": 36, 
-    "height": 36
+  "ux-search-active": {
+    "width": 72, 
+    "height": 108
   }, 
   "care_home": {
     "width": 36, 
@@ -471,6 +511,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "category-predicate-nature": {
+    "width": 36, 
+    "height": 36
+  }, 
   "industrial": {
     "width": 36, 
     "height": 36
@@ -486,6 +530,10 @@
   "generic_shield-3char": {
     "width": 132, 
     "height": 72
+  }, 
+  "fashion": {
+    "width": 36, 
+    "height": 36
   }, 
   "nursing_home": {
     "width": 36, 
@@ -543,6 +591,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "spring": {
+    "width": 36, 
+    "height": 36
+  }, 
   "aerodrome": {
     "width": 36, 
     "height": 36
@@ -562,6 +614,10 @@
   "drinking_water": {
     "width": 36, 
     "height": 36
+  }, 
+  "category-namespace-do_and_see": {
+    "width": 38, 
+    "height": 38
   }, 
   "mobile_phone": {
     "width": 36, 
@@ -615,7 +671,7 @@
     "width": 36, 
     "height": 36
   }, 
-  "hardware": {
+  "category-namespace-education_and_religion": {
     "width": 36, 
     "height": 36
   }, 
@@ -639,7 +695,7 @@
     "width": 36, 
     "height": 36
   }, 
-  "mall": {
+  "category-predicate-sleep": {
     "width": 36, 
     "height": 36
   }, 
@@ -667,11 +723,15 @@
     "width": 132, 
     "height": 72
   }, 
+  "category-predicate-attraction": {
+    "width": 38, 
+    "height": 38
+  }, 
   "bridge": {
     "width": 36, 
     "height": 36
   }, 
-  "fashion": {
+  "atm": {
     "width": 36, 
     "height": 36
   }, 
@@ -707,9 +767,13 @@
     "width": 36, 
     "height": 30
   }, 
-  "capital-m": {
-    "width": 24, 
-    "height": 24
+  "ruin": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "category-predicate-fun": {
+    "width": 36, 
+    "height": 36
   }, 
   "estate_agent": {
     "width": 36, 
@@ -731,11 +795,15 @@
     "width": 36, 
     "height": 36
   }, 
-  "information": {
+  "factory": {
     "width": 36, 
     "height": 36
   }, 
   "memorial": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "category-predicate-health": {
     "width": 36, 
     "height": 36
   }, 
@@ -744,6 +812,10 @@
     "height": 36
   }, 
   "buddhist": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "category-predicate-transport": {
     "width": 36, 
     "height": 36
   }, 
@@ -799,6 +871,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "information": {
+    "width": 36, 
+    "height": 36
+  }, 
   "park": {
     "width": 36, 
     "height": 36
@@ -810,6 +886,10 @@
   "county_shield-4char": {
     "width": 152, 
     "height": 72
+  }, 
+  "category-predicate-industry": {
+    "width": 36, 
+    "height": 36
   }, 
   "historical": {
     "width": 36, 
@@ -843,6 +923,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "category-predicate-mobility": {
+    "width": 36, 
+    "height": 36
+  }, 
   "townspot-xs-rev": {
     "width": 12, 
     "height": 12
@@ -850,6 +934,10 @@
   "townspot-xs": {
     "width": 16, 
     "height": 16
+  }, 
+  "mall": {
+    "width": 36, 
+    "height": 36
   }, 
   "traffic_signals": {
     "width": 36, 
@@ -863,6 +951,10 @@
     "width": 36, 
     "height": 36
   }, 
+  "category-namespace-health": {
+    "width": 36, 
+    "height": 36
+  }, 
   "natural_forest": {
     "width": 36, 
     "height": 36
@@ -872,6 +964,10 @@
     "height": 36
   }, 
   "dry_cleaning": {
+    "width": 36, 
+    "height": 36
+  }, 
+  "category-predicate-religion": {
     "width": 36, 
     "height": 36
   }, 
