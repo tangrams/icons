@@ -27,6 +27,10 @@
     "width": 576, 
     "height": 576
   }, 
+  "sdk_shield-3char": {
+    "width": 1152, 
+    "height": 672
+  }, 
   "clinic": {
     "width": 272, 
     "height": 272
@@ -43,9 +47,9 @@
     "width": 304, 
     "height": 304
   }, 
-  "skiing": {
-    "width": 304, 
-    "height": 304
+  "sdk_shield-4char": {
+    "width": 1344, 
+    "height": 672
   }, 
   "manor": {
     "width": 272, 
@@ -175,6 +179,10 @@
     "width": 320, 
     "height": 304
   }, 
+  "sdk_shield-5char": {
+    "width": 1536, 
+    "height": 672
+  }, 
   "golf_course": {
     "width": 304, 
     "height": 304
@@ -192,6 +200,10 @@
     "height": 304
   }, 
   "category-namespace-shop_and_service": {
+    "width": 304, 
+    "height": 304
+  }, 
+  "bridge": {
     "width": 304, 
     "height": 304
   }, 
@@ -603,9 +615,9 @@
     "width": 1024, 
     "height": 1024
   }, 
-  "bridge": {
-    "width": 304, 
-    "height": 304
+  "sdk_shield-2char": {
+    "width": 896, 
+    "height": 672
   }, 
   "pitch": {
     "width": 304, 
@@ -630,6 +642,10 @@
   "nursing_home": {
     "width": 272, 
     "height": 272
+  }, 
+  "sdk_shield-1char": {
+    "width": 672, 
+    "height": 672
   }, 
   "toys": {
     "width": 304, 
@@ -791,6 +807,10 @@
     "width": 304, 
     "height": 304
   }, 
+  "skiing": {
+    "width": 304, 
+    "height": 304
+  }, 
   "theme_park": {
     "width": 304, 
     "height": 304
@@ -892,7 +912,7 @@
     "height": 304
   }, 
   "capital-l": {
-    "width": 256, 
+    "width": 272, 
     "height": 240
   }, 
   "ruin": {

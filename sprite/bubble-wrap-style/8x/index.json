@@ -23,6 +23,10 @@
     "width": 288, 
     "height": 288
   }, 
+  "sdk_shield-3char": {
+    "width": 576, 
+    "height": 336
+  }, 
   "embassy": {
     "width": 152, 
     "height": 152
@@ -31,9 +35,9 @@
     "width": 64, 
     "height": 56
   }, 
-  "pitch": {
-    "width": 152, 
-    "height": 152
+  "sdk_shield-4char": {
+    "width": 672, 
+    "height": 336
   }, 
   "manor": {
     "width": 136, 
@@ -142,6 +146,10 @@
   "government": {
     "width": 152, 
     "height": 152
+  }, 
+  "sdk_shield-5char": {
+    "width": 768, 
+    "height": 336
   }, 
   "golf_course": {
     "width": 152, 
@@ -372,7 +380,7 @@
     "height": 152
   }, 
   "townspot-xl-rev": {
-    "width": 160, 
+    "width": 168, 
     "height": 152
   }, 
   "fountain": {
@@ -531,6 +539,14 @@
     "width": 512, 
     "height": 512
   }, 
+  "bridge": {
+    "width": 152, 
+    "height": 152
+  }, 
+  "pitch": {
+    "width": 152, 
+    "height": 152
+  }, 
   "recycling": {
     "width": 152, 
     "height": 152
@@ -546,6 +562,10 @@
   "nursing_home": {
     "width": 136, 
     "height": 136
+  }, 
+  "sdk_shield-1char": {
+    "width": 336, 
+    "height": 336
   }, 
   "toys": {
     "width": 152, 
@@ -751,9 +771,9 @@
     "width": 160, 
     "height": 152
   }, 
-  "bridge": {
-    "width": 152, 
-    "height": 152
+  "sdk_shield-2char": {
+    "width": 448, 
+    "height": 336
   }, 
   "atm": {
     "width": 152, 
@@ -784,7 +804,7 @@
     "height": 152
   }, 
   "capital-l": {
-    "width": 136, 
+    "width": 128, 
     "height": 120
   }, 
   "ruin": {

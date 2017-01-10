@@ -23,6 +23,10 @@
     "width": 144, 
     "height": 144
   }, 
+  "sdk_shield-3char": {
+    "width": 288, 
+    "height": 168
+  }, 
   "embassy": {
     "width": 72, 
     "height": 72
@@ -143,13 +147,17 @@
     "width": 72, 
     "height": 72
   }, 
+  "sdk_shield-5char": {
+    "width": 384, 
+    "height": 168
+  }, 
   "golf_course": {
     "width": 74, 
     "height": 74
   }, 
   "townspot-xl": {
-    "width": 88, 
-    "height": 80
+    "width": 82, 
+    "height": 82
   }, 
   "dock": {
     "width": 72, 
@@ -238,6 +246,10 @@
   "fitness": {
     "width": 74, 
     "height": 74
+  }, 
+  "sdk_shield-4char": {
+    "width": 336, 
+    "height": 168
   }, 
   "volcano": {
     "width": 72, 
@@ -527,6 +539,10 @@
     "width": 256, 
     "height": 256
   }, 
+  "bridge": {
+    "width": 72, 
+    "height": 72
+  }, 
   "recycling": {
     "width": 72, 
     "height": 72
@@ -542,6 +558,10 @@
   "nursing_home": {
     "width": 70, 
     "height": 70
+  }, 
+  "sdk_shield-1char": {
+    "width": 168, 
+    "height": 168
   }, 
   "toys": {
     "width": 74, 
@@ -751,9 +771,9 @@
     "width": 72, 
     "height": 72
   }, 
-  "bridge": {
-    "width": 72, 
-    "height": 72
+  "sdk_shield-2char": {
+    "width": 224, 
+    "height": 168
   }, 
   "atm": {
     "width": 72, 

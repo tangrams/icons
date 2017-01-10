@@ -16,7 +16,7 @@ try:
 except ImportError:
     from PIL.Image import core as _imaging
 
-pat = re.compile('([^\:]+)\:\s+\[(\d+),\s+(\d+),\s+(\d+),\s+(\d+)\]')
+pat = re.compile('\'?([a-zA-Z0-9\-\:]+)\'?\:\s+\[(\d+),\s+(\d+),\s+(\d+),\s+(\d+)\]')
 
 def extract_sprites(style, local, resolution):
     if local:
