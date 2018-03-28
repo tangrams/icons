@@ -96,6 +96,8 @@ def extract_sprites(style, local, resolution):
 
         sprite[name] = dims
 
+        #print( name, sprite[name] )
+
     return sprite, url
 
 if __name__ == '__main__':
