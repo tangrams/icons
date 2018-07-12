@@ -5,14 +5,14 @@ import os
 import logging
 
 import requests
-import yaml
+import yaml             # pyyaml
 import json
 import re
 
 import cStringIO
 
 try:
-    from PIL import Image as _imaging
+    from PIL import Image as _imaging       # pillow
 except ImportError:
     from PIL.Image import core as _imaging
 
