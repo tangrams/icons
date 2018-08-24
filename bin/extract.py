@@ -16,7 +16,7 @@ try:
 except ImportError:
     from PIL.Image import core as _imaging
 
-pat = re.compile('\'?([a-zA-Z0-9\-\:]+)\'?\:\s+\[(\d+),\s+(\d+),\s+(\d+),\s+(\d+)\]')
+pat = re.compile('\'?([a-zA-Z0-9\-\_\:]+)\'?\:\s+\[(\d+),\s+(\d+),\s+(\d+),\s+(\d+)\]')
 
 def extract_sprites(style, local, resolution):
     if local:
@@ -140,7 +140,10 @@ if __name__ == '__main__':
         outdir = os.getcwd()
 
     outdir = os.path.abspath(outdir)
+
+    # TODO: test if style includes -shields and strip that off
     outdir = os.path.join(outdir, style + "-style")
+    
     outdir = os.path.join(outdir, resolution + "x")
 
     logging.info("writing %s sprites to %s" % (style, outdir))
